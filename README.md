@@ -5,49 +5,58 @@ ASP.NET Core, база данных MSSQL, фронтенд React.js
 * REST API
 * ORM EntityFramework Core
 
-Чтобы зайти с администратора:
-логин: admin@gmail.com
+Чтобы зайти с администратора:<br/>
+логин: admin@gmail.com<br/>
 пароль: _Aa123456
 
-ВОЗМОЖНОСТИ ПРИЛОЖЕНИЯ:
-
+<b>ВОЗМОЖНОСТИ ПРИЛОЖЕНИЯ:</b>
+<br/><br/>
 Так выглядит главная страница приложения:
-![Main Page](https://github.com/klepaski/TravelAgency/raw/main/gitimages/Main.png)
+<br/>
+<img src="https://github.com/klepaski/TravelAgency/raw/main/gitimages/Main.png" width="500">
 
-
-АДМИНИСТРАТОР:
+<b>АДМИНИСТРАТОР:</b>
+<br/><br/>
 Может создавать, изменять, удалять туры по Беларуси или Зарубежные туры.
 
 Так выглядит панель администратора:
-![Admin Tours](https://github.com/klepaski/TravelAgency/raw/main/gitimages/AdminTours.png)
+<br/>
+<img src="https://github.com/klepaski/TravelAgency/raw/main/gitimages/AdminTours.png" width="500">
 
 Процесс создания тура по Беларуси:
-![Create Tour](https://github.com/klepaski/TravelAgency/raw/main/gitimages/CreateTour.png)
+<br/>
+<img src="https://github.com/klepaski/TravelAgency/raw/main/gitimages/CreateTour.png" width="500">
 
-Для раздела "Зарубежные туры" всё аналогично.
-Создание отелей тоже практически аналогично.
+Для раздела "Зарубежные туры" всё аналогично.<br/>
+Создание отелей тоже практически аналогично.<br/>
 
 Также администратор может одобрить/отклонить комментарий:
-![Admin comment](https://github.com/klepaski/TravelAgency/raw/main/gitimages/AdminComment.png)
+<br/>
+<img src="https://github.com/klepaski/TravelAgency/raw/main/gitimages/AdminComment.png" width="500">
 
 
-ПОЛЬЗОВАТЕЛЬ:
-Может просматривать туры и отели.
+<b>ПОЛЬЗОВАТЕЛЬ:</b>
+<br/><br/>
+Может просматривать туры и отели.<br/>
 
 Просмотр туров по Беларуси:
-![BelTours](https://github.com/klepaski/TravelAgency/raw/main/gitimages/BelTours.png)
-Под каждым доступным туром есть кнопка звонка, которая может создать звонок при использовании приложения на телефоне, либо если к ПК подключено мобильное устройство, можно совершить звонок дистанционно на телефон.
+<br/>
+<img src="https://github.com/klepaski/TravelAgency/raw/main/gitimages/BelTours.png" width="500"><br/>
+Под каждым доступным туром есть кнопка звонка, которая может создать звонок при использовании приложения на телефоне, либо если к ПК подключено мобильное устройство, можно совершить звонок дистанционно на телефон.<br/>
 
 Просмотр зарубежных туров:
-![Tours](https://github.com/klepaski/TravelAgency/raw/main/gitimages/Tours.png)
-Отличие зарубежных туров от белорусских состоит в том, что при выборе тура мы не совершаем звонок, а перенаправляемся на страницу для выбора отеля, который привязан к данному туру.
+<br/>
+<img src="https://github.com/klepaski/TravelAgency/raw/main/gitimages/Tours.png" width="500"><br/>
+Отличие зарубежных туров от белорусских состоит в том, что при выборе тура мы не совершаем звонок, а перенаправляемся на страницу для выбора отеля, который привязан к данному туру.<br/>
 
 Просмотр отелей:
-![Hotels](https://github.com/klepaski/TravelAgency/raw/main/gitimages/Hotels.png)
-Здесь же можно оставить комментарий под отелем, который позже отмодерирует администратор.
+<br/>
+<img src="https://github.com/klepaski/TravelAgency/raw/main/gitimages/Hotels.png" width="500"><br/>
+Здесь же можно оставить комментарий под отелем, который позже отмодерирует администратор.<br/>
 
 После выбора тура и отеля в разделе PROFILE появляются заказы пользователя, которые также можно просмотреть или удалить:
-![Orders](https://github.com/klepaski/TravelAgency/raw/main/gitimages/Orders.PNG)
+<br/>
+<img src="https://github.com/klepaski/TravelAgency/raw/main/gitimages/Orders.PNG" width="500">
 
 
 
