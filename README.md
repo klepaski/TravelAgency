@@ -47,7 +47,7 @@ ASP.NET Core, база данных MSSQL, фронтенд React.js
 Здесь же можно оставить комментарий под отелем, который позже отмодерирует администратор.
 
 После выбора тура и отеля в разделе PROFILE появляются заказы пользователя, которые также можно просмотреть или удалить:
-![Orders](https://github.com/klepaski/TravelAgency/raw/main/gitimages/Orders.png)
+![Orders](https://github.com/klepaski/TravelAgency/raw/main/gitimages/Orders.PNG)
 
 
 
