@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TravelAgency.Model</id>
+    <version>1.0.0</version>
+    <authors>TravelAgency.Model</authors>
+    <owners>TravelAgency.Model</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="Microsoft.AspNetCore.Http.Features" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\tieza\TravelAgency\TravelAgency.Model\bin\Release\netcoreapp2.2\TravelAgency.Model.dll" target="lib\netcoreapp2.2\TravelAgency.Model.dll" />
+  </files>
+</package>
